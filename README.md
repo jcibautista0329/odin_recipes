@@ -6,3 +6,6 @@ This webpage contains recipes that I personally enjoy which contains the instruc
 
 ## PROGRESS
 I unexpectedly experienced some problems as I push my recipe files (LOL) but in the end I have solved it! I think I have spend 4 to 5 hours in this project. It was quiet fun! 
+
+## CSS
+Implemented CSS as instructed by the TOP Foundation Course: CSS - The Cascade.

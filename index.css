@@ -1,13 +1,16 @@
 *{
     font-family: "Courier", monospace;
+    text-align: start;
+    color: rgb(red, green, blue);
 }
+
 body{
     background-image: url('../odin_recipes/resources/1=header.gif');
     background-size:cover;
     background-position:center;
 }
 
-h1,h3,p {
+h1,p{
     text-align:start;
     font-weight:bold;
     color:white;
@@ -15,6 +18,10 @@ h1,h3,p {
 h2{
     text-align: center;
     color:white;
+}
+h4{
+    text-align: start;
+    color:wheat;
 }
 #banner{
     background-color:rgba(45, 31, 3, 0.248);
@@ -29,18 +36,28 @@ h2{
     margin-left:0%;
     margin-right:0%;
     border-bottom: 100px solid rgb(23, 0, 0, 0.900);
-    border-top: 50px solid rgb(102, 36, 3)
+    border-top: 50px solid rgb(102, 36, 3);
 }
 
-.orangered{
+.button{
     background-color:white;
     color: orangered;
     font-weight: bold;
-    font-family:'Courier New', Courier, monospace;
     font-size: large;
+    border-style:solid;
+    border-color: brown;
+    border-width: thick;
 }
 
-.border{
-    background-color:rgb(205, 117, 50);
+.title{
     text-align: center;
+    color:white;
+    font-size: xx-large;
+    font-style:bold;
+}
+
+.images{
+    width: 300 px;
+    border: solid brown;
+    border-width: thick;
 }
